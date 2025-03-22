@@ -1,10 +1,9 @@
 # Meyloid_DropSEQ_Analysis
 
-Function
+#Function
 Analyzes Drop_Seq data, implements dimensionality reduction, Sp1 expression analysis
 
-Results
-
+#Results
 Clear groupings shown in meyloid vs non meyloid cell types
 ![pca](https://github.com/user-attachments/assets/b2722eb6-5dc3-45c8-bb1e-83f9f7235e49)
 ![umap](https://github.com/user-attachments/assets/e4faced1-fbb9-41c1-81b3-23f9a1253a7a)
